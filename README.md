@@ -1,4 +1,9 @@
-### Hi there [👋](https://github.com/brokensound77)
+### Hi there 👋🏔️
+
+- 👨‍💻 Security research and detection engineering
+- 👾 focused on offensive and defensive capabilities
+- 🥪 cyber hunter and gatherer
+- 👨‍🌾 cyber farmer
 
 <!--
 **brokensound77/brokensound77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

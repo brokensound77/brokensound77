@@ -1,9 +1,12 @@
 ### Hi there 👋🏔️
 
+- 🌳 🪓 in the logging industry
+- 👷‍♂️ may or may not work for an organization producing rubber bands
+
+Also, occasionally...
 - 👨‍💻 Security research and detection engineering
 - 👾 focused on offensive and defensive capabilities
-- 🥪 cyber hunter and gatherer
-- 👨‍🌾 cyber farmer
+- 🥪 cyber hunting, gathering, & 👨‍🌾 farming
 
 <!--
 **brokensound77/brokensound77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

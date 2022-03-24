@@ -1,7 +1,7 @@
 ### Hi there 👋🏔️
 
 - 🌳 🪓 in the logging industry
-- 👷‍♂️ may or may not work for an organization producing rubber bands
+- 👷‍♂️ may or may not work for a rubber band production company
 
 Also, occasionally...
 - 👨‍💻 Security research and detection engineering

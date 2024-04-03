@@ -1,9 +1,6 @@
 ### Hi there 👋🏔️
 
-- 🌳 🪓 in the logging industry
-
-Also, occasionally...
-- 👨‍💻 Security research and detection engineering
+Security research and detection engineering
 
 
 <!--
@@ -20,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

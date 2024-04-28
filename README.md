@@ -1,6 +1,8 @@
 ### Hi there 👋🏔️
 
-Security research and detection engineering
+<img src="bl_logo1.png" class="center" alt="Logo" style="max-width:250px">
+
+Security research, detection engineering, and other nerd musings
 
 
 <!--

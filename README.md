@@ -1,6 +1,6 @@
 ### Hi there 👋🏔️
 
-<img src="bl_logo1.png" class="center" alt="Logo" style="max-width:50px" width="50">
+<img src="bl_logo1.png" class="center" alt="Logo" style="max-width:50px" width="100">
 
 Security research, detection engineering, and other nerd musings
 

@@ -1,6 +1,6 @@
 ### Hi there 👋🏔️
 
-<a href="https://br0k3nlab.com/" target="_blank"> <img src="bl_logo1.png" class="center" alt="Logo" style="max-width:50px" width="250"></a>
+<a href="https://br0k3nlab.com/" target="_blank"><img src="bl_logo1.png" class="center" alt="Logo" style="max-width:50px" width="250"></a>
 
 Security research, detection engineering, and other nerd musings
 
